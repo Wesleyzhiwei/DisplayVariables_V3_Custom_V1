@@ -1,0 +1,15 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: RTNetlogic_Display
+  Id: g=aad87e8ed33fb67fb00a2438dc480aea
+  Type: NetLogic
+  Children:
+  - Class: Method
+    Name: Write_Brightness
+  - Class: Method
+    Name: Write_Orientation
+  - Class: Method
+    Name: Write_Scale
+  - Class: Method
+    Name: Read_DisplayVariables
